@@ -1,5 +1,3 @@
-[![logo](docs/resources/alluxio_logo.png "Alluxio")](https://www.alluxio.io)
-
 ## What is JNI-FUSE
 
 A Project which is invented and maintained by alluxio community.
@@ -23,6 +21,4 @@ $ mvn clean install -Djnifuse-native.version=1.0.0
 ## Useful Links
 
 - [Alluxio Website](https://www.alluxio.io/)
-- [Downloads](https://www.alluxio.io/download)
-- [Releases and Notes](https://www.alluxio.io/download/releases/)
 - [Documentation](https://www.alluxio.io/docs/)
